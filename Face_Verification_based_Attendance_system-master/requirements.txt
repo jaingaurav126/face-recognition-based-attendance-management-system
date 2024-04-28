@@ -1,0 +1,13 @@
+asgiref
+click
+cmake
+Django
+django-filter
+dlib
+face-recognition
+face-recognition-models
+numpy
+opencv-python
+Pillow
+pytz
+sqlparse
